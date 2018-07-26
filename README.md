@@ -1,2 +1,2 @@
 # pipeline-demo1
-* trigger build 10
+* trigger a new build
